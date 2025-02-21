@@ -1,0 +1,1 @@
+O projeto desta NLW 19 tem como objetivo criar um site de cadastro no qual o registro de cada usuário gera um link de convite que pode ser utilizado por outros usuários e quando algúem faz o cadastro utilizando o link o usuário recebe pontos.
